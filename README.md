@@ -1,0 +1,2 @@
+# onedrive-empty-trashbot
+python
