@@ -7,7 +7,7 @@ import time
 
 # === Your Microsoft login credentials ===
 EMAIL = "example@mail.com"
-PASSWORD = "Password
+PASSWORD = "Password"
 
 # === 1. Launch Chrome ===
 print("step 1")
