@@ -6,8 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # === Your Microsoft login credentials ===
-EMAIL = "roxbunbun@outlook.com"
-PASSWORD = "R7m!9qLp@2Xe"
+EMAIL = "example@mail.com"
+PASSWORD = "Password
 
 # === 1. Launch Chrome ===
 print("step 1")
