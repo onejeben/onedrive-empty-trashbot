@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-# === Your Microsoft login credentials ===
+# === Your login credentials ===
 EMAIL = "example@mail.com"
 PASSWORD = "Password"
 
